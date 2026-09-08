@@ -43,12 +43,12 @@ Processed JSON → Amazon S3
 
 ## Project Structure
 
-- `lambda_feedback_sentiment.py` — AWS Lambda function
+- `lambda_sentiment_analysis.py` — AWS Lambda function
 - `manifest.json` — Project configuration
-- `customer_feedback_full (3).csv` — Customer feedback dataset
-- `A2_2210030485.pdf` — Project documentation
-- `cloud(485) (3).docx` — Project documentation
-- `sdc-4_2210030485(a2).pptx` — Project presentation
+- `customer_feedback.csv` — Customer feedback dataset
+- `project-report.pdf` — Project report
+- `project-documentation.docx` — Project documentation
+- `project-presentation.pptx` — Project presentation
 
 ## AWS Services
 
